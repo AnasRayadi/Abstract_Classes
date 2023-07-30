@@ -4,5 +4,6 @@ public class Main {
         System.out.println("The area of the rectangle is: "+rectangle.getArea()+" cm");
         System.out.println("----------------------------");
         System.out.println("The perimeter of the rectangle is: "+rectangle.getPerimeter());
+        System.out.println("hello world!");
     }
 }
